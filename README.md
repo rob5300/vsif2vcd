@@ -4,7 +4,7 @@ This utility initially written by SiPlus allows for decompiling scenes.image fil
 The expectations are to run on any computer that HLLib supports.
 
 Compiling:
-- 1.Install CMake.
+- 1. Install CMake.
 - 2. In your compiler, make sure "/FORCE:MULTIPLE" is in the command line options for the linker, otherwise it will error.
 
 
