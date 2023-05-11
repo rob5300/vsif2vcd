@@ -1,5 +1,5 @@
 {
-    "$schema": "https://web.archive.org/web/20220424030820id_/https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+    "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
     "name": "vsif2vcd",
     "version-string": "1.0.1",
     "dependencies": [
